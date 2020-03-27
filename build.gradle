@@ -7,7 +7,7 @@ buildscript {
         jcenter()
 
         // insignificant edit
-        failGradleBuild()
+        failGradleBuildAgain()
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:3.6.1'
